@@ -1,8 +1,4 @@
-#What
-Test sharing React Components across multiple physical HTML pages (not a single page app) using multiple Webpack entry points.
-
-#Why
-This setup allows different pages to pull in only the code they need (bundled via Webpack).
+This is a test to demonstrate sharing React Components across multiple physical HTML pages (not a single page app) using multiple Webpack entry points.  This setup allows different pages to pull in only the code they need (bundled via Webpack).
 
 #Production Output
 ```
